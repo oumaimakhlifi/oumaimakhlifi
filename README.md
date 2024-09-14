@@ -1,4 +1,6 @@
-![Coding](https://marlinbluetech.com/assets/img/devc.gif)
+<p align="center">
+  <img src="https://marlinbluetech.com/assets/img/devc.gif" width="600" height="auto" style="display: block; margin: 0 auto;">
+</p>
 <h1 align="center">Hi 👋, I'm khlifi oumaima</h1>
 <h3 align="center">An innovative Cloud and DevOps enthusiast with a flair for transforming complex challenges into elegant solutions.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oumaimakhlifi&label=Profile%20views&color=0e75b6&style=flat" alt="oumaimakhlifi" /> </p>
