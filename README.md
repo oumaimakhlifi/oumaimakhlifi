@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **to blend creativity and technical skills in Cloud and DevOps to craft unique and efficient solutions for modern challenges.**
 
-- 👨‍💻 All of my projects are available at [my github repo](my github repo)
+- 👨‍💻 All of my projects are **available at my github repo.**
 
 - 💬 Ask me about **Ask me about the latest skills I’m mastering in Cloud and DevOps.**
 
