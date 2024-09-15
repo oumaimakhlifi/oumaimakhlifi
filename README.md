@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at **my github repo.**
 
-- 💬 Ask me about **Ask me about the latest skills I’m mastering in Cloud and DevOps.**
+- 💬 Ask me about **the latest skills I’m mastering in Cloud and DevOps.**
 
 - 📫 How to reach me **oumaima.khlifi@esprit.tn, oumaimakhelifi98@gmail.com**
 
