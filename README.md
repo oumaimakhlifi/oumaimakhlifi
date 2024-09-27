@@ -39,14 +39,6 @@
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
   </a>
- <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
-  <img src="https://www.argoproj.github.io/argo-cd/assets/argocd-icon.svg" alt="ArgoCD" width="40" height="40" />
-</a>
-<a href="https://docs.microsoft.com/en-us/azure/bicep/" target="_blank" rel="noreferrer">
-  <img src="https://docs.microsoft.com/en-us/azure/bicep/media/bicep-logo.svg" alt="Azure Bicep" width="40" height="40" />
-</a>
-
-
   <a href="https://www.openstack.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg" alt="openstack" width="40" height="40"/>
   </a>
