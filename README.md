@@ -1,8 +1,11 @@
-<p align="center">
-  <img src="https://marlinbluetech.com/assets/img/devc.gif" width="500" height="auto" style="display: block; margin: 0 auto;">
-</p>
 <h1 align="center">Hi 👋, I'm Oumaima Khlifi</h1>
-<h3 align="center">An innovative Cloud and DevSecOps enthusiast with a flair for transforming complex challenges into elegant solutions.</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cloud+and+DevSecOps+Enthusiast;Transforming+complex+challenges+into+elegant+solutions;">
+  </a>
+</p>
+
 - 🌱 I’m currently learning **to blend creativity and technical skills in Cloud and DevOps to craft unique and efficient solutions for modern challenges.**
 
 - 👨‍💻 All of my projects are available at **my github repo and my LinkedIn account.**
