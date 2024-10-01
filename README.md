@@ -5,9 +5,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=ff69b4&size=25&center=true&vCenter=true&width=600&height=100&lines=Transforming+complex+challenges+into+elegant+solutions&pause=5000&speed=100&repeat=false">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=ff69b4&size=25&center=true&vCenter=true&width=600&height=100&lines=Crafting+innovative+solutions.&pause=5000&speed=100&repeat=false">
   </a>
 </p>
+
 
 
 
