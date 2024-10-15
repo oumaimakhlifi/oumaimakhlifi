@@ -9,10 +9,9 @@
   </a>
 </p>
 
-
-
-
-
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=oumaimakhlifi&label=Profile%20views&color=0e75b6&style=flat" alt="oumaimakhlifi" /> 
+</p>
 
 
 - 🌱 I’m currently learning **to blend creativity and technical skills in Cloud and DevOps to craft unique and efficient solutions for modern challenges.**
