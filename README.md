@@ -14,7 +14,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **to blend creativity and technical skills in Cloud and DevOps to craft unique and efficient solutions for modern challenges.**
+- 🌱 I’m currently learning **to blend creativity and technical skills in Data science to craft unique and efficient solutions for modern challenges.**
 
 - 👨‍💻 All of my projects are available at **my github repo and my LinkedIn account.**
 
