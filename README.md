@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://marlinbluetech.com/assets/img/devc.gif" width="500" height="auto" style="display: block; margin: 0 auto;">
 </p>
-<h1 align="center">Hi 👋, I'm Oumaima Khlifi - System and Network Administrator & DevSecOps Engineer</h1>
+<h1 align="center">Hi 👋, I'm Oumaima Khlifi - Data Scientist</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at **my github repo and my LinkedIn account.**
 
-- 💬 Ask me about **the latest skills I’m mastering in Cloud and DevOps.**
+- 💬 Ask me about **the latest skills I’m mastering ...**
 
 - 📫 How to reach me **oumaimakhelifi98@gmail.com**
 
