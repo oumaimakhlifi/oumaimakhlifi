@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://marlinbluetech.com/assets/img/devc.gif" width="500" height="auto" style="display: block; margin: 0 auto;">
+  <img src="https://miro.medium.com/v2/0*dI-o8H3i0w66SpK7.gif" width="500" height="auto" style="display: block; margin: 0 auto;">
 </p>
 <h1 align="center">Hi 👋, I'm Oumaima Khlifi - Data Scientist</h1>
 
